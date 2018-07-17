@@ -41,7 +41,7 @@ https://app.swaggerhub.com/apis/RiXiG/friend-book/1.0#/
 
 #### api-key & Content-Type
 
-api-key ->  UE133FKO340OF399A0023DD3421DAS21
+api-key ->  UE133FKO340OF399A0023DD3421DAS21 <br>
 Content-Type -> application/json
 
 <br>
